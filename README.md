@@ -1,6 +1,6 @@
 # covid19
 
-A new Flutter application.
+This is a Covid 19 flutter application to track down the status of covid 19 cases all around the corner of earth
 
 ## Getting Started
 
